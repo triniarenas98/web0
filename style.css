@@ -1,13 +1,8 @@
-.red {
-    color: red;
+main {
+    margin: 100px auto;
+    width: 400px;
+}
 
-}
 h1 {
-    color: blue;
-}
-p{
-    font-size: 20px;
-}
-button {
-    background-color: crimson;
+    color: red;
 }
