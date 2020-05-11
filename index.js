@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         For at-risk groups, pneumonia can be severe and may need to be treated in hospital. 
         This is because it can lead to serious complications, which in some cases can be fatal. 
 
-        <h4>For more information about pneumonia: https://www.nhs.uk/conditions/pneumonia/</h4>
+        <h4> <a href="https://www.nhs.uk/conditions/pneumonia">For more information about pneumonia:</a>/</h4>
         </u5> 
         `
     
