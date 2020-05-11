@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             <li>Feeling generally unwell</li>
             <li>Sweating and shivering</li>
             <li>Chest pain</li>
+            Contact with your primary health center if you experienced any of these symptoms.
         </u3>
         <h4>Risk groups</h4>
         <u4>
@@ -26,10 +27,16 @@ document.addEventListener("DOMContentLoaded", function (event) {
             ,kidney or liver condition</li>
             <li>People with a weakened immune system</li>
         </u4>
+        <h4>Treatment</h4>
+        Mild pneumonia can usually be treated at home by:
+            <li>Getting plenty of rest</li>
+            <li>Taking antiobitcs</li>
+            <li>Drinking plenty of fluids</li>
+        For at-risk groups, pneumonia can be severe and may need to be treated in hospital. 
+        This is because it can lead to serious complications, which in some cases can be fatal. 
 
-
-            
-            
+        For more information about pneumonia: https://www.nhs.uk/conditions/pneumonia/
+        </u5> 
         `
     
     const button = document.getElementById("boton");
