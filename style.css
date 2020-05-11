@@ -1,9 +1,21 @@
 main {
     margin: 100px auto;
     width: 400px;
+    background-color: dimgrey;
 }
 
 h1 {
     color: red;
-    background-color: dimgrey;
+    margin-left: initial;
+    
+}
+
+h2 {
+    color:black;
+
+    
+}
+h3 {
+    color:grey;
+    
 }
