@@ -1,13 +1,13 @@
 main {
-    margin: 100px auto;
-    width: 400px;
+    margin: 452.740px auto;
+    width: 725.333px;
     background-color: dimgrey;
 }
 
 h1 {
     color: red;
     margin-left: initial;
-    
+
 }
 
 h2 {
@@ -16,6 +16,6 @@ h2 {
     
 }
 h3 {
-    color:grey;
+    color: aquamarine; 
     
 }
