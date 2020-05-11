@@ -21,21 +21,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
             
         `
     })
-    button.addEventListener('click', e => {
+    button2.addEventListener('click', e => {
         console.log('click');
         const contenido = document.getElementById("contenido");
         contenido.innerHTML = `
-            <ul>
-                <li>Group Students: 
-                <u2>
-                Dalila Allaoui Ouadi,
-                Nicole Cabrera Villavicencio,
-                Tarandeep Sigh Mandahar,
-                Manuel Gregorio Collazo,
-                Trinidad Arenas Costa
-                <li>Contact with us: trinidad.arenas@uvic.cat</li>
-                </u2>
-            </ul>
+            
             
         `
     })
