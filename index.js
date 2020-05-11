@@ -1,6 +1,15 @@
 document.addEventListener("DOMContentLoaded", function (event) {
     console.log("DOM fully loaded and parsed");
+    const button2 = document.getElementById("boton2");
 
+    button2.addEventListener('click', e => {
+        console.log('click');
+        const contenido = document.getElementById("contenido");
+        contenido.innerHTML = `Simptoms of pneumonia
+            
+            
+        `
+    
     const button = document.getElementById("boton");
 
     button.addEventListener('click', e => {
@@ -27,15 +36,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         `
     })
     
-    const button2 = document.getElementById("boton2");
 
-    button2.addEventListener('click', e => {
-        console.log('click');
-        const contenido = document.getElementById("contenido");
-        contenido.innerHTML = `Simptoms of pneumonia
-            
-            
-        `
     })
 
 
