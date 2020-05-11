@@ -7,7 +7,26 @@ document.addEventListener("DOMContentLoaded", function (event) {
         const contenido2 = document.getElementById("contenido2");
         contenido2.innerHTML = `
         <h4>Simptoms of pneumonia</h4>
-        
+        Common symptoms of pneumonia include:
+        <u3>
+            <li>A cough: which may be dry, or produce thick yellow, green, brown or blood-stained mucus.</li>
+            <li>Difficulty breathing</li>
+            <li>Rapid deartbeat</li>
+            <li>High temperature</li>
+            <li>Feeling generally unwell</li>
+            <li>Sweating and shivering</li>
+            <li>Chest pain</li>
+        </u3>
+        <h5>Risk groups</h5>
+        <u4>
+            <li>Babies and very young children</li>
+            <li>Elderly people</li>
+            <li>People who smoke</li>
+            <li>People with other health conditions, such as ashtma, cystic fibrosis, or heart
+            ,kidney or liver condition</li>
+            <li>People with a weakened immune system</li>
+        </u4>
+
             
             
         `
