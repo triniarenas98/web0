@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
     button2.addEventListener('click', e => {
         console.log('click');
-        const contenido = document.getElementById("contenido");
-        contenido.innerHTML = `Simptoms of pneumonia
+        const contenido2 = document.getElementById("contenido2");
+        contenido2.innerHTML = `Simptoms of pneumonia
             
             
         `
