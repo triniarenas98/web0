@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         contenido.innerHTML = `
             <ul>
                 <li>Group Students: 
-            </ul>
+            
                 <u2>
                     <li>Dalila Allaoui Ouadi</li>
                     <li>Nicole Cabrera Villavicencio</li>
@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                     <li>Trinidad Arenas Costa</li>
                 <li>Email: trinidad.arenas@uvic.cat</li>
                 </u2>
+            </ul>
             
         `
     })
