@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             <ul>
                 <li>Group Students: 
                 <u2>
+                <div id="contenido"></div>
                 Dalila Allaoui Ouadi
                 <div id="contenido"></div>
                 Nicole Cabrera Villavicencio
@@ -31,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
     button2.addEventListener('click', e => {
         console.log('click');
         const contenido = document.getElementById("contenido");
-        contenido.innerHTML = `
+        contenido.innerHTML = `Simptoms of pneumonia
             
             
         `
