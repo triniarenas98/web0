@@ -1,6 +1,9 @@
 main {
     margin: 100px;
     width: 400px;
+}
+
+body{
     background-color: rgba(44, 39, 39, 0.959);
 }
 
