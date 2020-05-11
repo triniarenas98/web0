@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             
         `
     })
-    button2.addEventListener('click', e => {
+    button.addEventListener('click', e => {
         console.log('click');
         const contenido = document.getElementById("contenido");
         contenido.innerHTML = `
