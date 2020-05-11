@@ -5,6 +5,7 @@ main {
 
 body{
     background-color: rgba(44, 39, 39, 0.959);
+    background-image: -webkit-image-set();
 }
 
 h1 {
