@@ -10,10 +10,14 @@ document.addEventListener("DOMContentLoaded", function (event) {
             <ul>
                 <li>Group Students: 
                 <u2>
-                Dalila Allaoui Ouadi,
-                Nicole Cabrera Villavicencio,
-                Tarandeep Sigh Mandahar,
-                Manuel Gregorio Collazo,
+                Dalila Allaoui Ouadi
+                <div id="contenido"></div>
+                Nicole Cabrera Villavicencio
+                <div id="contenido"></div>
+                Tarandeep Sigh Mandahar
+                <div id="contenido"></div>
+                Manuel Gregorio Collazo
+                <div id="contenido"></div>
                 Trinidad Arenas Costa
                 <li>Contact with us: trinidad.arenas@uvic.cat</li>
                 </u2>
