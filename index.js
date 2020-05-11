@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         console.log('click');
         const contenido2 = document.getElementById("contenido2");
         contenido2.innerHTML = `
-        <h4>Simptoms of pneumonia</h4>
+        <h4>Symptoms of pneumonia</h4>
         Common symptoms of pneumonia include:
         <u3>
             <li>A cough: which may be dry, or produce thick yellow, green, brown or blood-stained mucus.</li>
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             <li>Sweating and shivering</li>
             <li>Chest pain</li>
         </u3>
-        <h5>Risk groups</h5>
+        <h4>Risk groups</h4>
         <u4>
             <li>Babies and very young children</li>
             <li>Elderly people</li>
@@ -26,6 +26,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
             ,kidney or liver condition</li>
             <li>People with a weakened immune system</li>
         </u4>
+
 
             
             
