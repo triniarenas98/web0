@@ -8,11 +8,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
         const contenido = document.getElementById("contenido");
         contenido.innerHTML = `
             <ul>
-                <li>Components: Dalila Allaoui Ouadi</li>
-                <li>            Nicole Cabrera Villavicencio</li>
-                <li>            Tarandeep Sigh Mandahar</li>
-                <li>            Manuel Gregorio Collazo</li>
-                <li>            Trinidad Arenas Costa</li>
+                <li>Components: Dalila Allaoui Ouadi
+                                Nicole Cabrera Villavicencio
+                                Tarandeep Sigh Mandahar
+                                Manuel Gregorio Collazo
+                                Trinidad Arenas Costa</li>
                 <li>Email: trinidad.arenas@uvic.cat</li>
             </ul>
         `
