@@ -1,11 +1,10 @@
 main {
-    margin: 100px;
+    margin: 100px auto;
     width: 400px;
 }
 
 body{
-    background-color: rgba(44, 39, 39, 0.959);
-    background-image: -webkit-image-set();
+    background-color: #313131;
 }
 
 h1 {
