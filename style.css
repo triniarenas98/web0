@@ -1,6 +1,7 @@
 main {
     margin: 100px auto;
     width: 400px;
+    color: honeydew;
 }
 
 body{
@@ -24,5 +25,4 @@ h3 {
 }
 button{
     background-color: #ffffae;
-    color: honeydew;
 }
