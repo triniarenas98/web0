@@ -1,13 +1,12 @@
 main {
     margin: 400px auto;
     width: 1000px;
-    height: 1000px;
-
     color: honeydew;
 }
 
 body{
     background-color: #242424;
+    width: 1000px;
 }
 
 h1 {
