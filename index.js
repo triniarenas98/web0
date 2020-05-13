@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         This is because it can lead to serious complications, which in some cases can be fatal. 
         <h4> <a href="https://www.nhs.uk/conditions/pneumonia">For more information about pneumonia</a></h4>
         </u5> 
-        <img id=img src="lungs_x.ray.jpeg">
+        <img id=img src="lungs_x-ray.jpeg">
 
         `
     
