@@ -36,7 +36,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
         This is because it can lead to serious complications, which in some cases can be fatal. 
         <h4> <a href="https://www.nhs.uk/conditions/pneumonia">For more information about pneumonia</a></h4>
         </u5> 
-        <img id=img src="/lungs_x-ray.jpeg">
+        Here you can observe the differences between an X-Ray chest of an healthy patient and one of a patient with pneumonia.
+        These types of images have been used during the performance of this project.
+        <div id="contenido2"></div>
+        <img id=img2 src="/NORMAL2-IM-1440-0001.jpeg">
+        <img id=img2 src="/person1952_bacteria_4883.jpeg">
 
         `
     
@@ -70,24 +74,4 @@ document.addEventListener("DOMContentLoaded", function (event) {
     })
 
 
-    const X_ray = document.getElementById("X_ray");
-
-    let first = true;
-    img = document.createElement('img')
-    X_ray.addEventListener('click', e => {
-        console.log('X_ray');
-        const url = 'https://dog.ceo/api/breeds/image/random'
-        fetch(url).then(res => res.json()).then(res => {
-            const { message, status } = res
-            if (status == "success") {
-                img.src = message
-                if (first) {
-                    document.getElementsByTagName("main")[0].appendChild(img);
-                    first = false;
-                }
-            }
-        })
-
-
-    })
 });
