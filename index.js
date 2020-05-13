@@ -69,12 +69,12 @@ document.addEventListener("DOMContentLoaded", function (event) {
     })
 
 
-    const perro_btn = document.getElementById("perro-btn");
+    const X_ray = document.getElementById("X_ray");
 
     let first = true;
     img = document.createElement('img')
-    perro_btn.addEventListener('click', e => {
-        console.log('perro');
+    X_ray.addEventListener('click', e => {
+        console.log('X_ray');
         const url = 'https://dog.ceo/api/breeds/image/random'
         fetch(url).then(res => res.json()).then(res => {
             const { message, status } = res
